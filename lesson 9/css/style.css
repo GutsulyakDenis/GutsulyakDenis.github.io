@@ -1,0 +1,15 @@
+section#table {
+	padding-top: 100px;
+}
+.box {
+	height: 100px;
+	border: 2px solid #000;
+}
+.box_ion {
+	height: 50px;
+	border: 2px solid #fff;
+	background-color: green;
+}
+	
+
+
